@@ -1,0 +1,27 @@
+.app {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+
+
+}
+  
+  .food-truck-container {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr); /* 5 equal columns */
+    gap: 20px;
+    width: 100%;
+    padding: 20px;
+    justify-content: center;
+    padding-left: 100px;
+    background-color: hsla(213, 78%, 57%, 0.667);
+  }
+  @media only screen and (max-width: 600px) {
+    .food-truck-container {
+        grid-template-columns: repeat(1, 1fr); /* 5 equal columns */
+    }
+  }

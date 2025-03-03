@@ -1,0 +1,33 @@
+/* Header.css */
+header {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    background-color: hsla(213, 78%, 57%, 0.667);
+    width: 100vw;
+    height: 400px;
+    justify-content: center;
+    align-items: center;
+    text-shadow: #0c0c0c;
+  }
+  
+  .awning {
+    width: 80%;
+    display: block;
+    height: 400px;
+    max-width: 800px;
+    height: auto;
+  }
+  
+  h1 {
+    font-size: 4.5rem;
+    font-weight: bold;
+    color: #0c0c0c;
+    margin-top: 50px;
+  }
+  @media only screen and (max-width: 600px) {
+    h1 {
+      font-size: 2rem;;
+    }
+  }
+  
