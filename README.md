@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://media-hosting.imagekit.io//0c1f39a42620493b/bandicam%202025-03-02%2022-14-07-958.mp4?Expires=1835583488&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=cHoJnpgPY-1WY7cmnFOZuHpVuDeL4XVVTeulPIjlV06Jtd~70GvdLm4Uy-4DqWjKrrP2~iV1h8a3yXEb0h6J0pnIeC6aOIFuEav29bAWSkMwOgx1gFlTpHmrHewuw8EVNnFd8MeEHAiPoMZGCPjI2DRXAWIw4DH8bSu6VNuWs9lR~kYHNkeE8abKHtL2MaQYoK6wqpFI0WiPiArARWhGVzJGyf~9QCQu1iNJjgTDeUFF4d8suLTuf-oVG8eDbQFGL9t~uNst3YWvFA~T1Cj64g2dCkKiTJH4z9mAqDUf5vuKTvso3ZErLKuXPxkhs75LyV7EI1DD9TOBIIWzFnuImQ__' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/ppgD4PZ.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
